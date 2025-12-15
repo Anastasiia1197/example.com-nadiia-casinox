@@ -9,4 +9,4 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://vivasports.ru/sitemap.xml

